@@ -69,5 +69,5 @@ https://www.kaggle.com/datasets/larsen0966/student-performance-data-set?select=s
 ### Docker Hub Link:
 https://hub.docker.com/r/nermean/big_data
 
-### 3 GitHub Link:
+### GitHub Link:
 https://github.com/Nermean/BigData.git

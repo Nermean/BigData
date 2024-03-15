@@ -1,0 +1,2 @@
+Percentage of male students: 40.98613251155624 %
+Percentage of female students: 59.01386748844376 %
